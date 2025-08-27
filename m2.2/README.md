@@ -5,6 +5,8 @@ Using print() and  input() function build a guessing game
 
 ### **EXPECTED OUTPUT:** <br>
 GUESSING GAME<br>
+-----------------------<br>
+
 Please think of a number (between 3 and 3) <br>
 Press enter when you are ready!... <br>
 Is it 3?  <br>
