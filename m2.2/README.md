@@ -1,13 +1,12 @@
 ## **Make a guessing game using input** 
 
-**DESCRIPTION**: 
+### **DESCRIPTION**: 
 Using print() and  input() function build a guessing game 
 
-**EXPECTED OUTPUT:**
-G U E S S I N G    G A M E 
-"--------------------------" 
-Please think of a number (between 3 and 3) 
-Press enter when you are ready!... 
-Is it 3?  
-Number 3 guessed in 1 tries! 
-Thank you for playing! 
+### **EXPECTED OUTPUT:** <br>
+GUESSING GAME<br>
+Please think of a number (between 3 and 3) <br>
+Press enter when you are ready!... <br>
+Is it 3?  <br>
+Number 3 guessed in 1 tries! <br>
+Thank you for playing! <br>
