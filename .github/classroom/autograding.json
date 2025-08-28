@@ -1,0 +1,16 @@
+[
+  {
+    "name": "M2.1 Basic Input/Output",
+    "setup": "pip install pytest",
+    "run": "pytest -q m2.1/test_m2_1.py",
+    "input": "",
+    "output": "",
+  }
+   {
+    "name": "M2.2 Basic Input/Output",
+    "setup": "pip install pytest",
+    "run": "pytest -q m2.1/test_m2_1.py",
+    "input": "",
+    "output": "",
+  }
+}
